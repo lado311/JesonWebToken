@@ -1,5 +1,8 @@
 var builder = WebApplication.CreateBuilder(args);
-
+builder.Services.Configure<Microsoft.AspNetCore.Builder.HttpsRedirectionOptions>(options =>
+{
+    options.HttpsPort = null;
+});
 // Add services to the container.
 
 builder.Services.AddControllers();
