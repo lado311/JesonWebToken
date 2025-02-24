@@ -1,5 +1,8 @@
+using Microsoft.AspNetCore.HttpsPolicy;
+
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.Configure<Microsoft.AspNetCore.Builder.HttpsRedirectionOptions>(options =>
+
+builder.Services.Configure<HttpsRedirectionOptions>(options =>
 {
     options.HttpsPort = null;
 });

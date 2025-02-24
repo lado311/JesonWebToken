@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|c:\\users\\user\\downloads\\jesonwebtoken\\jsonwebtoken\\jsonwebtoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|solutionrelative:jsonwebtoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|c:\\users\\user\\downloads\\jesonwebtoken\\jsonwebtoken\\jsonwebtoken\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|solutionrelative:jsonwebtoken\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|c:\\users\\user\\downloads\\jesonwebtoken\\jsonwebtoken\\jsonwebtoken\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|solutionrelative:jsonwebtoken\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|c:\\users\\user\\downloads\\jesonwebtoken\\jsonwebtoken\\jsonwebtoken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|solutionrelative:jsonwebtoken\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|c:\\users\\user\\downloads\\jesonwebtoken\\jsonwebtoken\\jsonwebtoken\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3944F509-1947-4F82-B29E-56D4628DB4EB}|JsonWebToken\\JsonWebToken.csproj|solutionrelative:jsonwebtoken\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\Program.cs",
+              "RelativeDocumentMoniker": "JsonWebToken\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\Program.cs",
+              "RelativeToolTip": "JsonWebToken\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:08:51.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\appsettings.json",
+              "RelativeDocumentMoniker": "JsonWebToken\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\appsettings.json",
+              "RelativeToolTip": "JsonWebToken\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T19:08:48.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JsonWebToken\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JsonWebToken\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:08:48.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "JsonWebToken\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\Dto\\UserDto.cs",
+              "RelativeToolTip": "JsonWebToken\\Dto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:08:48.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\Model\\User.cs",
+              "RelativeDocumentMoniker": "JsonWebToken\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\JesonWebToken\\JsonWebToken\\JsonWebToken\\Model\\User.cs",
+              "RelativeToolTip": "JsonWebToken\\Model\\User.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:08:48.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
