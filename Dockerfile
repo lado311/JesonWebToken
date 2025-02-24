@@ -3,7 +3,7 @@ FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /app
 
 # Copy the project file and restore dependencies
-COPY ["JsonWebToken/JsonWebToken.csproj", "JsonWebToken/"]
+COPY ["JsonWebToken/JsonWebToken/JsonWebToken.csproj", "JsonWebToken/"]
 WORKDIR /app/JsonWebToken
 RUN dotnet restore
 
