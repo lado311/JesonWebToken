@@ -2,12 +2,13 @@
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /app
 
-# Copy only necessary files first (better for caching)
-COPY ["JsonWebToken/*.csproj", "./"]
+# Copy the project file and restore dependencies
+COPY ["JsonWebToken/JsonWebToken.csproj", "JsonWebToken/"]
+WORKDIR /app/JsonWebToken
 RUN dotnet restore
 
-# Copy the rest of the project files
-COPY . ./
+# Copy everything else and build
+COPY . /app
 RUN dotnet publish -c Release -o /out
 
 # Use a lightweight runtime image
